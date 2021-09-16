@@ -3,4 +3,7 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good Night Students!!!
+Good Afternoon Students!!!
+
+
+I have successfully completed  the Jenkins CI
